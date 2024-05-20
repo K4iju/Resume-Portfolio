@@ -16,5 +16,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: <a www.linkedin.com/in/kyle-guevara-925151252l"></a>
+[linkedin]: <a [https.linkedin.com/in/kyle-guevara-925151252l](https://www.linkedin.com/in/kyle-guevara-925151252/)"></a>
 
