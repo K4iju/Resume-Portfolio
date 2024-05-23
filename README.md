@@ -3,6 +3,8 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Setting up Virtual Machine</b>
+
+- <b> Hardware virtualization </b>
  
 - <b>Networking with Packet Tracer</b>
  
