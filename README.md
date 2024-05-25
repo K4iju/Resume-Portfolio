@@ -10,9 +10,7 @@
  
 - <b>IT support</b>
 
-- <b>Python</b>
 
-- <b>SQL</b>
 
 
 
