@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="[https://github.com/K4iju"></a><a href="[[(https://www.linkedin.com/in/kyle-guevara-925151252?trk=people-guest_people_search-card))](https://www.linkedin.com/in/kyle-guevara-925151252?trk=people-guest_people_search-card)](https://www.linkedin.com/in/kyle-guevara-925151252/)">Cybersecurity Student</a>
+<h1>Hi, I'm Kyle Guevara! <br/>, <a href="[(https://www.linkedin.com/in/kyle-guevara-925151252/)]">Cybersecurity Student</a><h/1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
