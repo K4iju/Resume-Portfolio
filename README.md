@@ -1,14 +1,14 @@
 <h1>Hi, I'm Kyle Guevara! <h/1>
 
-<h2>[Brief Introduction]</h2>
+<h2>[Introduction]</h2>
 
-<b>My journey to Cybersecurity has led me to a passion of learning more about the fundamentals of Information Technology, I am eager to learn more and invest my time into understanding the basics. My goal is to attain my first role as a Technical Support Specialist to attain as much valuable information from a technical and business perspective. I have developed important skills to help succeed in this role and I would like to display how much I have learned.</b>
+<b>I am a Sophmore in communit college, and I am eager to learn more and invest my time into understanding the basics of Information Technology. My goal is to attain my first role as a Technical Support Specialist to attain as much valuable information from a technical while implementing business solutions. These are skills and projects that I have developed throughout my course of training and free time.</b>
 
 <h2>👨‍💻Skills:</h2>
 
 |Projects          | Skills learned  |
 |------------------|------------------|
-
+|Installing motherboard | Hardware components|
 
 
 
