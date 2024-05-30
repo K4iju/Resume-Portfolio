@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://github.com/K4iju"></a><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>
+<h1>Hi, I'm Kyle! <br/><a href="https://github.com/K4iju"></a><a href="https://www.linkedin.com/in/kyle-guevara-925151252/)">Cybersecurity Student</a>
 
 <h2>👨‍💻 IT Projects:</h2>
 
