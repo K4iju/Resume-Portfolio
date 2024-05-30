@@ -4,15 +4,10 @@
 
 <b>My journey to Cybersecurity has led me to a passion of learning more about the fundamentals of Information Technology, I am eager to learn more and invest my time into understanding the basics. My goal is to attain my first role as a Technical Support Specialist to attain as much valuable information from a technical and business perspective. I have developed important skills to help succeed in this role and I would like to display how much I have learned.</b>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻Skills:</h2>
 
-- <b>Setting up Virtual Machine</b>
-
-- <b> Hardware virtualization </b>
- 
-- <b>Networking with Packet Tracer</b>
- 
-- <b>IT support</b>
+|Projects          | Skills learned  |
+|------------------|------------------|
 
 
 
