@@ -8,7 +8,7 @@
 
 |Projects          | Skills learned  |
 |------------------|------------------|
-|Installing motherboard (https://github.com/K4iju/Installing-Motherboard) | Hardware components|
+|[Installing motherboard] (https://github.com/K4iju/Installing-Motherboard) | Hardware components|
 
 
 
