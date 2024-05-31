@@ -8,7 +8,7 @@
 
 |Projects          | Link |
 |------------------|------------------|
-|[Hardware  | https://github.com/K4iju/Installing-Motherboard                                                                               
+|Hardware  | https://github.com/K4iju/Installing-Motherboard                                                                               
 | Networking  | https://github.com/K4iju/Networking/tree/main|
 
 
