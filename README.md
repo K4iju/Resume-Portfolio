@@ -6,10 +6,10 @@
 
 <h2>👨‍💻Skills:</h2>
 
-|Projects          | Link |
-|------------------|------------------|
-|Hardware  | https://github.com/K4iju/Installing-Motherboard                                                                               
-| Networking  | https://github.com/K4iju/Networking/tree/main|
+|Projects          | Link|
+|------------------|-------|
+|Hardware  | https://github.com/K4iju/Installing-Motherboard|                                                                                
+| Networking  | https://github.com/K4iju/Networking/tree/main|                                           
 
 
 
