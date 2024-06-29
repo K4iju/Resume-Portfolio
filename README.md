@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-<b>I am a recent graduate from SCF, and I am eager to learn more about the basics of Information Technology. My goal is to attain my first role as a Technical Support Specialist and attain as much valuable technical knowledge to implement business solutions. These are skills and projects that I have developed throughout my course of training and free time.</b>
+<b>I am a recent graduate from SCF, and I am currently a Student Assistant that provides technical services. My goal is to attain my first role as a Technical Support Specialist and attain as much valuable technical knowledge to implement business solutions. These are skills and projects that I have developed throughout my course of training and free time.</b>
 
 <h2>👨‍💻Skills:</h2>
 
